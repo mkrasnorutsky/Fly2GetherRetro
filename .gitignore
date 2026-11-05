@@ -1,0 +1,17 @@
+# macOS and Xcode user state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Build products and local SDKs
+build/
+DerivedData/
+output/
+*.app/
+*.kext/
+*.dSYM/
+*.xcarchive/
+*.sdk/
+
+# Local configuration
+*.local.xcconfig
